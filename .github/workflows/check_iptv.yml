@@ -1,0 +1,77 @@
+name: Check IPTV Sources
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'iptv.txt'
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check IPTV links
+        id: check_links
+        run: |
+          output_file="output.txt"
+          temp_file="temp_output.txt"
+          
+          echo "Starting to check IPTV links..."
+          
+          echo -n "" > "$temp_file"
+          
+          while IFS=',' read -r name url; do
+            if [[ -z "$name" || "$name" =~ ^# ]]; then
+              continue
+            fi
+            
+            name="${name// /}"
+            url="${url// /}"
+
+            echo "Checking: $name - $url"
+            
+            http_code=$(curl -s -o /dev/null -w "%{http_code}" -m 10 "$url" || true)
+            
+            if [[ "$http_code" -eq 200 ]]; then
+              echo "✅ Valid: $name - $url"
+              echo "$name,$url" >> "$temp_file"
+            else
+              echo "❌ Invalid: $name - $url (HTTP Status: $http_code)"
+            fi
+          done < iptv.txt
+          
+          echo "Sorting and saving valid links to output.txt..."
+          
+          # 使用 -f 选项进行不区分大小写的排序
+          sort -f "$temp_file" -o "$output_file"
+          
+          if [[ -z "$(git status --porcelain "$output_file")" ]]; then
+            echo "No changes in output.txt, skipping commit."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in output.txt, preparing to commit."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$output_file"
+            git commit -m "Update output.txt with valid IPTV sources"
+          fi
+        shell: bash
+        
+      - name: Push changes
+        if: steps.check_links.outputs.has_changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
