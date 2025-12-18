@@ -1,69 +1,109 @@
-凤凰资讯,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-凤凰中文,http://cdn.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-TVB PLUS,http://cdn.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-HOY TV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-澳视澳门,http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
-澳视卫星,http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
-重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-明珠台,http://cdn.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-华丽翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-明珠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
-无线新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
-TVB PLUS,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-TVB娱乐新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
-ViuTV,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-ViuTVSix,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-RTHK31,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
-RTHK32,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
-凤凰中文,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
-美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-天映频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-天映经典,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
-Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-八度空间,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
-华丽翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-无线新闻台,http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-翡翠台测试,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-明珠台测试,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-深圳卫视4K,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+🕘️更新时间,#genre#
+2025-12-18 14:45:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+
+📺央视频道,#genre#
+CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV-3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV-16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
+CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+
+📡卫视频道,#genre#
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9c1b1188cbdd5b771b15035cf5f6169d&wsTime=1766052054
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+
+☘️港澳台频道,#genre#
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中視新聞,https://www.youtube.com/watch?v=baDV1O5EBP0
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
