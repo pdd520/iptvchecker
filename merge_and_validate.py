@@ -4,7 +4,8 @@ from typing import List, Tuple
 
 # 定义输入链接和输出文件
 INPUT_URLS = [
-    "https://raw.githubusercontent.com/pdd520/iptv-api/refs/heads/master/output/result.m3u"
+    #"https://raw.githubusercontent.com/pdd520/iptv-api/refs/heads/master/output/result.m3u"
+    "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u"
 ]
 OUTPUT_FILE = "emerged_output.m3u"
 # 验证链接时的超时设置 (秒)
