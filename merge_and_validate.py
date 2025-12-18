@@ -4,8 +4,6 @@ from typing import List, Tuple
 
 # 定义输入链接和输出文件
 INPUT_URLS = [
-    "https://raw.githubusercontent.com/hxfkofoutlook/iptv/refs/heads/main/mytv_juli.m3u",
-    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
     "https://raw.githubusercontent.com/pdd520/iptv-api/refs/heads/master/output/result.m3u"
 ]
 OUTPUT_FILE = "emerged_output.m3u"
